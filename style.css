@@ -1,0 +1,12 @@
+.green-score {
+    color: rgb(83, 188, 83);
+    
+}
+
+.yellow-score {
+    color: rgb(181, 181, 0);
+}
+
+.red-score {
+    color: red;
+}
